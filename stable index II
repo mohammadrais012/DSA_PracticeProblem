@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int firstStableIndex(vector<int>& nums, int k) {
+        int n = nums.size();
+
+        int maxi = nums[0];
+
+        vector<int> min_pre(n,nums[n-1]);
+
+        for(int i=n-2; i>=0; i--){
+            min_pre[i]=min(min_pre[i+1],nums[i]);
+        }
+
+        for(int i=0; i<n; i++){
+            maxi=max(maxi,nums[i]);
+            int score= maxi-min_pre[i];
+            if(score<=k)  return i;
+        }
+
+
+        return -1;
+    }
+};
