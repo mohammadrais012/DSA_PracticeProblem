@@ -18,6 +18,7 @@ Poblem Solving in C++
 ## Array
 |  |
 | ------- |
+| [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Math
 |  |
@@ -55,4 +56,16 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
+## Two Pointers
+|  |
+| ------- |
+| [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
+## Binary Search
+|  |
+| ------- |
+| [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
+## Sorting
+|  |
+| ------- |
+| [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
