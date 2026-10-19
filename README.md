@@ -15,9 +15,11 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Math
@@ -27,6 +29,7 @@ Poblem Solving in C++
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Database
 |  |
@@ -63,6 +66,7 @@ Poblem Solving in C++
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 ## Sorting
 |  |
