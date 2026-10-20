@@ -39,10 +39,12 @@ Poblem Solving in C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -51,6 +53,7 @@ Poblem Solving in C++
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -75,4 +78,12 @@ Poblem Solving in C++
 | ------- |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
