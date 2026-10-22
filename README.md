@@ -45,6 +45,7 @@ Poblem Solving in C++
 | ------- |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
+| [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0802-find-eventual-safe-states) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -112,13 +113,23 @@ Poblem Solving in C++
 ## Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1046-last-stone-weight) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
