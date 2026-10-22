@@ -43,6 +43,7 @@ Poblem Solving in C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
@@ -52,6 +53,7 @@ Poblem Solving in C++
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
@@ -113,11 +115,13 @@ Poblem Solving in C++
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
