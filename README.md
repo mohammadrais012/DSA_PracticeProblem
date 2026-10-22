@@ -9,16 +9,19 @@ Poblem Solving in C++
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
+| [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +87,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
+| [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
