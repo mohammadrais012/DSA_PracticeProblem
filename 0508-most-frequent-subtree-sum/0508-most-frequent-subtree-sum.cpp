@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+    int maxi = INT_MIN;
     unordered_map<int,int> mp;
     int inOrder(TreeNode* root){
         if(!root){
@@ -19,28 +20,19 @@ public:
 
         int sum= root->val + inOrder(root->left)+inOrder(root->right);
         mp[sum]++;
-
+        maxi = max(maxi,mp[sum]);
         return sum;
     }
     vector<int> findFrequentTreeSum(TreeNode* root) {
-        priority_queue<pair<int,int>> pq;
-        inOrder(root);
-        int maxi = INT_MIN;
-        for(auto it: mp){
-            maxi = max(maxi,it.second);
-            pq.push({it.second,it.first});
-        }
         vector<int> result;
-        while(!pq.empty()){
-            auto[freq,val]=pq.top();
-            pq.pop();
+        inOrder(root);
+      
+        for(auto [val,freq]: mp){
             if(freq==maxi){
                 result.push_back(val);
             }
-            else{
-                break;
-            }
         }
+       
         return result;
     }
 };
