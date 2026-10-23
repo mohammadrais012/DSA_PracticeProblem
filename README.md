@@ -22,6 +22,7 @@ Poblem Solving in C++
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,4 +166,12 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Counting
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
