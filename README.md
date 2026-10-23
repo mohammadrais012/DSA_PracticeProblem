@@ -46,6 +46,7 @@ Poblem Solving in C++
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Poblem Solving in C++
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -177,4 +179,16 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
