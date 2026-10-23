@@ -111,6 +111,7 @@ Poblem Solving in C++
 | ------- |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
