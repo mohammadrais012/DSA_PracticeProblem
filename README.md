@@ -30,6 +30,7 @@ Poblem Solving in C++
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
@@ -96,6 +97,7 @@ Poblem Solving in C++
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -154,4 +156,8 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
