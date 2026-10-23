@@ -32,6 +32,7 @@ Poblem Solving in C++
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
@@ -42,6 +43,7 @@ Poblem Solving in C++
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [0904-fruit-into-baskets](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1046-last-stone-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -55,6 +57,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Database
 |  |
@@ -110,6 +113,7 @@ Poblem Solving in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
