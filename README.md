@@ -26,6 +26,7 @@ Poblem Solving in C++
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -231,6 +232,7 @@ Poblem Solving in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
