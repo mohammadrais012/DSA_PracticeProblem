@@ -8,7 +8,7 @@ public:
         for(int i=0; i<n; i++){
             mp[nums[i]]++;
 
-            while(mp.size()>k){
+            while(mp.size()>k && j<=i){
                 mp[nums[j]]--;
                 if(mp[nums[j]]==0){
                     mp.erase(nums[j]);
