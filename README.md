@@ -81,6 +81,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
@@ -163,6 +164,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
@@ -171,6 +173,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
@@ -190,6 +193,7 @@ Poblem Solving in C++
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 ## Divide and Conquer
 |  |
@@ -235,6 +239,7 @@ Poblem Solving in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
