@@ -27,6 +27,7 @@ Poblem Solving in C++
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
@@ -227,4 +228,12 @@ Poblem Solving in C++
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
