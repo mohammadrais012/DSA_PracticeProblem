@@ -90,6 +90,7 @@ Poblem Solving in C++
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
+| [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0802-find-eventual-safe-states) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -99,6 +100,7 @@ Poblem Solving in C++
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0802-find-eventual-safe-states) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -111,6 +113,7 @@ Poblem Solving in C++
 | ------- |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
@@ -186,6 +189,7 @@ Poblem Solving in C++
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1046-last-stone-weight) |
 ## String Matching
 |  |
@@ -261,4 +265,12 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
