@@ -53,6 +53,7 @@ Poblem Solving in C++
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
+| [0860-lemonade-change](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
@@ -253,6 +254,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
