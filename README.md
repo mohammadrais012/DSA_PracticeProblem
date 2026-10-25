@@ -60,6 +60,7 @@ Poblem Solving in C++
 | [1046-last-stone-weight](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1046-last-stone-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1695-maximum-erasure-value) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -255,6 +256,7 @@ Poblem Solving in C++
 | ------- |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0860-lemonade-change) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 ## Quicksort
 |  |
 | ------- |
