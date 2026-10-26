@@ -58,6 +58,7 @@ Poblem Solving in C++
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
 | [1514-path-with-maximum-probability](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1514-path-with-maximum-probability) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1695-maximum-erasure-value) |
@@ -96,6 +97,7 @@ Poblem Solving in C++
 | [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0802-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -107,12 +109,14 @@ Poblem Solving in C++
 | [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0802-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -288,5 +292,6 @@ Poblem Solving in C++
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
