@@ -1,33 +1,45 @@
 class Solution {
 public:
-    int n , m;
-    bool dfs(int sr, int sc, vector<vector<int>>& grid){
-        if(sr<0 || sr>=n || sc<0 || sc>=m ) return false;
-        if(grid[sr][sc]==1) return true;
+    int n ,m;
+    void dfs(int i,int j ,vector<vector<int>>& grid ){
+        if(i<0 || i>=n || j<0 || j>=m || grid[i][j]) return;
 
-        grid[sr][sc]=1;
-        int dr[]={-1,0,1,0};
-        int dc[]={0,-1,0,1};
-        bool ans= true;
-        for(int i=0; i<4; i++){
-            int nr= sr+dr[i];
-            int nc= sc+dc[i];
-            ans &=  dfs(nr,nc,grid);
-        }
-        return ans;
+        grid[i][j]=1;
+
+        dfs(i-1,j,grid);
+        dfs(i,j-1,grid);
+        dfs(i+1,j,grid);
+        dfs(i,j+1,grid);
+
     }
     int closedIsland(vector<vector<int>>& grid) {
-       n = grid.size();
-       m = grid[0].size();
-        int cnt=0;
+        n = grid.size();
+        m = grid[0].size();
+
+        for(int i=0; i<n; i++){
+            if(grid[i][0]==0){
+                dfs(i,0,grid);
+            }
+            if(grid[i][m-1]==0){
+                dfs(i,m-1,grid);
+            }
+        }
+        for(int j=0; j<m; j++){
+            if(grid[0][j]==0) dfs(0,j,grid);
+
+            if(grid[n-1][j]==0) dfs(n-1,j,grid);
+        }
+
+        int ans=0;
+
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(grid[i][j]==0){
-                    if(dfs(i,j,grid)) cnt++;
+                    ans++;
+                    dfs(i,j,grid);
                 }
             }
         }
-
-        return cnt;
+        return ans;
     }
 };
