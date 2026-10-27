@@ -8,6 +8,7 @@ Poblem Solving in C++
 | ------- |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
@@ -24,6 +25,7 @@ Poblem Solving in C++
 | ------- |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0516-longest-palindromic-subsequence) |
@@ -50,6 +52,7 @@ Poblem Solving in C++
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
@@ -262,6 +265,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
@@ -294,4 +298,16 @@ Poblem Solving in C++
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
