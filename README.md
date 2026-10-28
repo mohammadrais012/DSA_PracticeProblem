@@ -16,6 +16,7 @@ Poblem Solving in C++
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1695-maximum-erasure-value](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -58,6 +59,7 @@ Poblem Solving in C++
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [0860-lemonade-change](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1046-last-stone-weight) |
@@ -81,6 +83,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Database
