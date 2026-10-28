@@ -34,6 +34,7 @@ Poblem Solving in C++
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
 |  |
@@ -73,6 +74,7 @@ Poblem Solving in C++
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2126-destroying-asteroids) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -81,6 +83,7 @@ Poblem Solving in C++
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0002-add-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
