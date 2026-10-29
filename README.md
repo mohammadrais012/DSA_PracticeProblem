@@ -104,6 +104,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
@@ -120,6 +121,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
@@ -200,6 +202,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
@@ -209,6 +212,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
