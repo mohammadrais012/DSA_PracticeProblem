@@ -26,6 +26,7 @@ Poblem Solving in C++
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
@@ -239,6 +240,7 @@ Poblem Solving in C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0020-valid-parentheses) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -322,4 +324,8 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
