@@ -21,6 +21,7 @@ Poblem Solving in C++
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1590-make-sum-divisible-by-p) |
 | [1695-maximum-erasure-value](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1695-maximum-erasure-value) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## String
@@ -116,6 +117,7 @@ Poblem Solving in C++
 | [0802-find-eventual-safe-states](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -129,6 +131,7 @@ Poblem Solving in C++
 | [0802-find-eventual-safe-states](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -208,6 +211,7 @@ Poblem Solving in C++
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,6 +222,7 @@ Poblem Solving in C++
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
