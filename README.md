@@ -14,6 +14,7 @@ Poblem Solving in C++
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -59,6 +60,7 @@ Poblem Solving in C++
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
+| [0560-subarray-sum-equals-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -88,6 +90,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
