@@ -64,6 +64,7 @@ Poblem Solving in C++
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [0560-subarray-sum-equals-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -94,6 +95,7 @@ Poblem Solving in C++
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
