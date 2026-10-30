@@ -32,6 +32,7 @@ Poblem Solving in C++
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
@@ -111,6 +112,7 @@ Poblem Solving in C++
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
@@ -211,6 +213,7 @@ Poblem Solving in C++
 | [0112-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -223,6 +226,7 @@ Poblem Solving in C++
 | [0112-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -343,4 +347,8 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
