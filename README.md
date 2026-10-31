@@ -26,6 +26,7 @@ Poblem Solving in C++
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Poblem Solving in C++
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -272,6 +274,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0992-subarrays-with-k-different-integers) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Segment Tree
 |  |
