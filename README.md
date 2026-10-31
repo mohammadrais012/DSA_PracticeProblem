@@ -80,6 +80,7 @@ Poblem Solving in C++
 | [1590-make-sum-divisible-by-p](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1590-make-sum-divisible-by-p) |
 | [1695-maximum-erasure-value](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1695-maximum-erasure-value) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [2079-watering-plants](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2126-destroying-asteroids) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -276,6 +277,7 @@ Poblem Solving in C++
 ## Simulation
 |  |
 | ------- |
+| [2079-watering-plants](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2079-watering-plants) |
 | [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
