@@ -68,6 +68,7 @@ Poblem Solving in C++
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [0560-subarray-sum-equals-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0002-add-two-numbers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Prefix Sum
