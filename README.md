@@ -14,6 +14,7 @@ Poblem Solving in C++
 | [0142-linked-list-cycle-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@ Poblem Solving in C++
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
@@ -285,6 +287,7 @@ Poblem Solving in C++
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0992-subarrays-with-k-different-integers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
