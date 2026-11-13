@@ -14,6 +14,7 @@ Poblem Solving in C++
 | [0142-linked-list-cycle-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0508-most-frequent-subtree-sum) |
@@ -71,6 +72,7 @@ Poblem Solving in C++
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
@@ -204,6 +206,7 @@ Poblem Solving in C++
 | ------- |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -259,6 +262,7 @@ Poblem Solving in C++
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1514-path-with-maximum-probability) |
@@ -279,6 +283,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -287,6 +292,7 @@ Poblem Solving in C++
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0992-subarrays-with-k-different-integers) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -380,4 +386,12 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0257-binary-tree-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
