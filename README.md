@@ -65,6 +65,7 @@ Poblem Solving in C++
 | [1695-maximum-erasure-value](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3364-minimum-positive-sum-subarray) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Poblem Solving in C++
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -117,6 +119,7 @@ Poblem Solving in C++
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1590-make-sum-divisible-by-p) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3364-minimum-positive-sum-subarray) |
 ## Database
 |  |
 | ------- |
