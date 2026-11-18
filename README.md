@@ -26,6 +26,7 @@ Poblem Solving in C++
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1590-make-sum-divisible-by-p) |
 | [1695-maximum-erasure-value](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1695-maximum-erasure-value) |
+| [2295-replace-elements-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2295-replace-elements-in-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -96,6 +97,7 @@ Poblem Solving in C++
 | [2079-watering-plants](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2126-destroying-asteroids) |
+| [2295-replace-elements-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2295-replace-elements-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -317,6 +319,7 @@ Poblem Solving in C++
 | ------- |
 | [1094-car-pooling](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1094-car-pooling) |
 | [2079-watering-plants](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2079-watering-plants) |
+| [2295-replace-elements-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2295-replace-elements-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
