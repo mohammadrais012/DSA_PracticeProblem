@@ -28,6 +28,7 @@ Poblem Solving in C++
 | [1695-maximum-erasure-value](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1695-maximum-erasure-value) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
@@ -96,6 +97,7 @@ Poblem Solving in C++
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2126-destroying-asteroids) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3364-minimum-positive-sum-subarray) |
@@ -205,6 +207,7 @@ Poblem Solving in C++
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -217,6 +220,7 @@ Poblem Solving in C++
 | [1094-car-pooling](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1094-car-pooling) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2126-destroying-asteroids) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -355,6 +359,7 @@ Poblem Solving in C++
 | [0860-lemonade-change](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0860-lemonade-change) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2126-destroying-asteroids](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2126-destroying-asteroids) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Quicksort
 |  |
 | ------- |
