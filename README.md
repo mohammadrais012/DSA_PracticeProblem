@@ -74,6 +74,7 @@ Poblem Solving in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -205,6 +206,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
