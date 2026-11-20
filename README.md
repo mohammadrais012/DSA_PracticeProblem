@@ -111,6 +111,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
