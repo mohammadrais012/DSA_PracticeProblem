@@ -72,6 +72,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -196,6 +197,7 @@ Poblem Solving in C++
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0202-happy-number) |
@@ -217,6 +219,7 @@ Poblem Solving in C++
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
