@@ -309,6 +309,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
@@ -426,4 +427,8 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
