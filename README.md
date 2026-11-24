@@ -8,6 +8,7 @@ Poblem Solving in C++
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
@@ -78,6 +79,7 @@ Poblem Solving in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
