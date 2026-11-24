@@ -98,6 +98,7 @@ Poblem Solving in C++
 | [1046-last-stone-weight](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1094-car-pooling) |
 | [1254-number-of-closed-islands](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1514-path-with-maximum-probability](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1514-path-with-maximum-probability) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1590-make-sum-divisible-by-p) |
@@ -122,6 +123,7 @@ Poblem Solving in C++
 | [0007-reverse-integer](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Prefix Sum
@@ -133,6 +135,7 @@ Poblem Solving in C++
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1590-make-sum-divisible-by-p) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3364-minimum-positive-sum-subarray) |
@@ -433,4 +436,12 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
