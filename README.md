@@ -84,6 +84,7 @@ Poblem Solving in C++
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
@@ -213,6 +214,7 @@ Poblem Solving in C++
 | [0141-linked-list-cycle](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0567-permutation-in-string) |
@@ -223,6 +225,7 @@ Poblem Solving in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0475-heaters) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -368,6 +371,7 @@ Poblem Solving in C++
 | [0141-linked-list-cycle](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -440,6 +444,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -448,4 +453,8 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1352-product-of-the-last-k-numbers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
