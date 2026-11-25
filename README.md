@@ -146,6 +146,7 @@ Poblem Solving in C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0112-path-sum) |
@@ -262,6 +263,7 @@ Poblem Solving in C++
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -277,6 +279,7 @@ Poblem Solving in C++
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -320,6 +323,7 @@ Poblem Solving in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
