@@ -127,6 +127,7 @@ Poblem Solving in C++
 | [1352-product-of-the-last-k-numbers](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [3360-stone-removal-game](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -347,6 +348,7 @@ Poblem Solving in C++
 | [1094-car-pooling](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/1094-car-pooling) |
 | [2079-watering-plants](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2079-watering-plants) |
 | [2295-replace-elements-in-an-array](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/2295-replace-elements-in-an-array) |
+| [3360-stone-removal-game](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
