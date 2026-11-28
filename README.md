@@ -16,6 +16,7 @@ Poblem Solving in C++
 | [0142-linked-list-cycle-ii](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -45,6 +46,7 @@ Poblem Solving in C++
 | [0139-word-break](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammadrais012/DSA_PracticeProblem/tree/master/0516-longest-palindromic-subsequence) |
